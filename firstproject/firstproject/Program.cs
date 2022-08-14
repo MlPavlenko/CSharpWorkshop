@@ -15,4 +15,4 @@ clientMiddleName = Console.ReadLine();
 string clientAllName=clientFirstName+" "+clientLastName+" "+clientMiddleName;
 Console.WriteLine(clientAllName);
 
-
+Console.WriteLine("Программа завершена");
